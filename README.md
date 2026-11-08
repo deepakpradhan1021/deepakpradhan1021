@@ -25,7 +25,7 @@ My learning approach is centered around building practical software and understa
 - **Developer Tools & Environment:** Git, GitHub, VS Code, Jupyter Notebook
 - **API Integration:** Google Gemini API, Groq API
 
-> *Self-Assessment:* Intermediate in Python; foundational in C and SQL; practical experience with data analysis, scikit-learn regression/classification pipelines, and interactive web tools. Strictly zero Java claims.
+> *Self-Assessment:* Intermediate in Python; foundational in C and SQL; practical experience with data analysis, scikit-learn regression/classification pipelines, and interactive web tools.
 
 ---
 
