@@ -10,7 +10,7 @@ I am a **2nd-year B.Tech student in Artificial Intelligence & Machine Learning**
 
 My learning approach is centered around building practical software and understanding machine learning from the fundamentals. Rather than focusing only on theory, I spend my time building data pipelines, evaluating models with transparent metrics, and creating functional web tools.
 
-- 🎓 **Education:** 2nd-year B.Tech in AI & ML, NIMS University Rajasthan (2024–2028)
+- 🎓 **Education:** 2nd-year B.Tech in AI & ML, NIMS University Rajasthan (2025–2029)
 - 💡 **Interests:** Machine Learning, Python development, applied NLP, and practical web applications
 - 🛠️ **Approach:** Learning by actively building and documenting real projects
 - 💼 **Opportunity:** Actively open to AI/ML and software engineering internship opportunities
